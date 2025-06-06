@@ -54,16 +54,16 @@
 })();
 */
 const messages = [
-    "Are you sure?",
-    "Really sure??",
-    "Are you positive?",
-    "Pookie please...",
-    "Just think about it!",
-    "If you say no, I will be really sad...",
-    "I will be very sad...",
-    "I will be very very very sad...",
-    "Ok fine, I will stop asking...",
-    "Just kidding, say yes please! ❤️"
+    "แน่ใจหรอ?",
+    "จริงๆอ่ะนะ??",
+    "มั่นใจหรอคั้บ?",
+    "เอาดีๆ",
+    "คิดใหม่ได้นะ",
+    "ถ้างั้นจะเศร้าจริงๆนะะ",
+    "เศร้าจริงๆแล้วนะะะ",
+    "เศร้ามากๆเลยนะ",
+    "จะไม่ถามแล้วนะ งอนน",
+    "ล้อเล่นเว้ยยย ตกลงเถอะนะๆๆ ❤️"
 ];
 
 let messageIndex = 0;
